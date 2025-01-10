@@ -1,4 +1,4 @@
-# <img alt="Ransomware" src="Images/icon.ico" height="100px" width="auto"> Ransomware
+# <img alt="Ransomware" src="Resources/icon.ico" height="100px" width="auto"> Ransomware
 
 > [!WARNING]  
 > **Chỉ chạy trong môi trường thử nghiệm!**  
@@ -10,6 +10,8 @@
 ## What is Ransomware
 
 **Ransomware** là một loại phần mềm độc hại, sau khi lây nhiễm vào máy tính, mã hóa hoặc chặn truy cập dữ liệu trên đĩa và sau đó thông báo cho nạn nhân về khả năng khôi phục chúng. Tất nhiên, không miễn phí và cần phải chuyển tiền vào tài khoản được chỉ định.
+
+## Csharp
 
 ### Features
 
@@ -41,7 +43,7 @@ cd Ransomware
     .\build.ps1
     ```
     <div align="center">
-        <img src="Images/buildps.png" alt="Build Script" width="auto" style="max-width: 100%; height: auto;">
+        <img src="Resources/buildps.png" alt="Build Script" width="auto" style="max-width: 100%; height: auto;">
         <p><em>Build Ps</em></p>
     </div>
 
@@ -50,8 +52,6 @@ cd Ransomware
     ```bash
     chmod +x build.sh && ./build.ps1
     ```
-    
-
 
 #### 4. Build cho các nền tảng
 

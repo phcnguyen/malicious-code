@@ -70,3 +70,10 @@ appsettings.Production.json
 *.tmp
 *.bak
 *.swp
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+crecredentials.json
+push.py
